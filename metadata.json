@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster - Hardware, Electrical & Plumbing Stock Management",
+  "description": "Complete inventory, sales, purchases, barcode search, returns, and low-stock alerts for Hardware, Electrical, Plumbing and Sanitary businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
